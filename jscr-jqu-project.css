@@ -1,0 +1,23 @@
+.box{
+	border-style: solid;
+	border-color: black;
+	background-color: black;
+	border-width: 0px 0px 0px 0px;
+	padding: 0px;
+}
+
+.bigBox{
+	margin-left: 25%;
+	width: 500px;
+	height: 500px;
+	overflow: auto;
+}
+
+h1{
+	margin-left: 25%;
+}
+
+.top{
+	margin-left: 25%;
+	margin-bottom: 20px;
+}
